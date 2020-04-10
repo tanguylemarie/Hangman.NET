@@ -1,0 +1,7 @@
+E:\Youtube\Visual Studio\Pendu\Pendu\bin\Debug\Pendu.exe.config
+E:\Youtube\Visual Studio\Pendu\Pendu\bin\Debug\Pendu.exe
+E:\Youtube\Visual Studio\Pendu\Pendu\bin\Debug\Pendu.pdb
+E:\Youtube\Visual Studio\Pendu\Pendu\obj\Debug\Pendu.csprojAssemblyReference.cache
+E:\Youtube\Visual Studio\Pendu\Pendu\obj\Debug\Pendu.csproj.CoreCompileInputs.cache
+E:\Youtube\Visual Studio\Pendu\Pendu\obj\Debug\Pendu.exe
+E:\Youtube\Visual Studio\Pendu\Pendu\obj\Debug\Pendu.pdb
